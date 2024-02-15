@@ -4,6 +4,8 @@ Here you will find my research on the Voynich Manuscript.
 
 The decision to upload this information was a tough one but the truth is that after struggling to find collaborators and being dismissed by other researchers so often its become a choice between letting it sit on my computer and letting it collect dust, or give it to the world. So rather than take this research to the grave, I've decided to make it public.
 
+The research stems from a paper I previously published which can be found here : https://d6129ad4bb27bd465e98-58c191b98cc38e0752b7f97f6ccc733d.ssl.cf5.rackcdn.com/Vol13_43-55_Kunferman.pdf 
+
 Folder Descriptions:
 
 ### cameraobscura
