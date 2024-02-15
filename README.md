@@ -10,12 +10,15 @@ Folder Descriptions:
 
 ### cameraobscura
 3d Models and photographs of the device used to encode the manuscript.
+![image](https://github.com/crknftart/VoynichManuscript/assets/134263232/3090ef1d-c821-4588-b577-5a7633fb864b)
 
 ### diagrams
 Diagrams of identified images with labeling. 
+![neuron-preview](https://github.com/crknftart/VoynichManuscript/assets/134263232/5edd53f5-0c4f-4121-8a3d-df7976179a06)
 
 ### font
 A font of the alphabet and characters that were derived, some characters may need to be combined and refined for portions of the manuscript. Typesetting may be required but there should be enough glyphs to successfully recreate the entire manuscript if needed.
+![image](https://github.com/crknftart/VoynichManuscript/assets/134263232/9916f8f7-f2c1-480c-a62e-fd3006adb7d3)
 
 ### notes
 A few notes on the research, as well as some references to image sources, additional research, and other research.
@@ -25,12 +28,15 @@ A semi prepped ocr template based on the font. My trial expired before I was abl
 
 ### scriptcomparison
 The various images of handwritten period appropriate script examples that were used to identify the language.
+![image](https://github.com/crknftart/VoynichManuscript/assets/134263232/c742cb90-4b5f-49d2-9bf9-8325718b367b)
 
 ### svg
 Scalable vector graphics related to the research including entire upper and lower glyph sets seperated by the median line. Handwriting stroke patterns for characters.
+![image](https://github.com/crknftart/VoynichManuscript/assets/134263232/d132322d-2fd9-43fc-b62c-401931053cb5)
 
 ### tbu
 The translation bucket. A collection of translations from a few folios. There is a discrepancy that needs an expert, which is simply a spacing issue, as when you move the space which is hard to determine from the manuscript sometimes it changes the entire translation. Also the translator being used has been updated, so while the translations are still correct the characters may now transliterate to alternative phrasings.
+![image](https://github.com/crknftart/VoynichManuscript/assets/134263232/dd31f581-1898-4e30-b341-0a7d3e0d15e6)
 
 ### MS408-10v-LINES1 copy.jpg
 The transliteration proccess from Right to Left Orientation to Left To Right
