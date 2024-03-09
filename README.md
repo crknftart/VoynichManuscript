@@ -2,7 +2,7 @@
 
 Here you will find my research on the Voynich Manuscript.
 
-Its become a choice between letting it sit on my computer and letting it collect dust, or give it to the world. So rather than take this research to the grave, I've decided to make it public. In the spirit of collaboration, and to honor all the different researchers and authors I studied to eliminate many possible solutions on my journey to this point, I have uploaded this research for anyone and everyone to consume and build upon, leaving the very last pieces of the puzzle up to you. You may only be 1-2 characters away from reading it!
+Its become a choice between letting it sit on my computer and letting it collect dust, or give it to the world. So rather than take this research to the grave, I've decided to make it public. In the spirit of collaboration, and to honor all the different researchers and authors I studied to eliminate many possible solutions on my journey to this point, I have uploaded this research for anyone and everyone to consume and build upon, leaving the very last pieces of the puzzle up to you. You may only be 1-2 characters away from reading it! Something special at the end of this readme.
 
 The research stems from a paper I previously published which can be found here : https://d6129ad4bb27bd465e98-58c191b98cc38e0752b7f97f6ccc733d.ssl.cf5.rackcdn.com/Vol13_43-55_Kunferman.pdf 
 
@@ -62,3 +62,16 @@ Upon examining the unobscured version of the manuscript I can safely say that th
 
 ## Why aren't I getting the same translations as you?
 This would highly depend on the translator you're using. At the time of translations Google Translate was used, but has since been updated. Due to the nature of the language and the fact its so old it will be hard to pinpoint the exact transliteraion of the characters until an expert can analyze them. Some characters may differ in this transliteration. The best methodology for verification at this time is input the english found in the tbu folder to see what its current translation is, compare that translation to the tbu, make neccessary adjustments to the character transliteration. Example: "To dio" in modern Croation is "Ovaj dio".
+
+
+# Special message: 
+I know that this manuscript has held great historical, cultural, and community signifigance for longer than any other manuscript. In many ways I was hesitant to publish my findings because solving this mystery potentionally could lead to dissolving many groups all sharing a common goal, and also be cause for great disappointment for some working tirelessly to unlock the secrets.
+
+With the awareness of this signifigance, and also to show my support to the communities and groups that could be potentially affected, I offer you this gift, and hope that it will provide a new area of focus and a new shared ground for exploration.
+
+Here now, utilizing everything ive learned and know afyer years of research, I present to you "The Kunferman Manuscript."
+
+May it provide you with a modern mystery for a great many years, to the decrypter(s) go my undisclosed and private research findings.
+
+Download Part 1: (PDF) (IPFS Storage)
+https://nftstorage.link/ipfs/bafybeicg6calv6ipjgamqptugfcqaghvcy44sg72dspka4nhz22gpdrfj4
