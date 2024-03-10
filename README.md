@@ -67,11 +67,12 @@ This would highly depend on the translator you're using. At the time of translat
 # Special message: 
 I know that this manuscript has held great historical, cultural, and community signifigance for longer than any other manuscript. In many ways I was hesitant to publish my findings because solving this mystery potentionally could lead to dissolving many groups all sharing a common goal, and also be cause for great disappointment for some working tirelessly to unlock the secrets.
 
-With the awareness of this signifigance, and also to show my support to the communities and groups that could be potentially affected, I offer you this gift, and hope that it will provide a new area of focus and a new shared ground for exploration.
+With the awareness of this signifigance, and also to show my support to the communities and groups that could be potentially affected, I will offer you a gift, and hope that it will provide a new area of focus and a new shared ground for exploration.
 
-Here now, utilizing everything ive learned and know afyer years of research, I present to you "The Kunferman Manuscript."
+Utilizing everything ive learned and know after years of research, I will present to you "The Kunferman Manuscript."
 
 May it provide you with a modern mystery for a great many years, to the decrypter(s) go my undisclosed and private research findings.
 
-Download Part 1: (PDF) (IPFS Storage)
-https://nftstorage.link/ipfs/bafybeicg6calv6ipjgamqptugfcqaghvcy44sg72dspka4nhz22gpdrfj4
+I originally planned on providing you with the manuscript in parts, but have decided to not split it into parts. As such when it is complete a link will appear here.
+
+
