@@ -1,8 +1,12 @@
-# The Voynich Manuscript / Solved
+# The Voynich Manuscript / Findings After Unobscuring
 
 Here you will find my research on the Voynich Manuscript.
 
-Its become a choice between letting it sit on my computer and letting it collect dust, or give it to the world. So rather than take this research to the grave, I've decided to make it public. In the spirit of collaboration, and to honor all the different researchers and authors I studied to eliminate many possible solutions on my journey to this point, I have uploaded this research for anyone and everyone to consume and build upon, leaving the very last pieces of the puzzle up to you. You may only be 1-2 characters away from reading it! Something special at the end of this readme.
+Its become a choice between letting it sit on my computer and letting it collect dust, or give it to the world. So rather than take this research to the grave, I've decided to make it public. 
+
+I have followed this manuscript since the well known documentary came out, and have read a great many papers over the years, unfortunately any lack of citation you may find in this research is due to the fact that I couldnt find anyone who had studied the manuscript from this perspective. I had to start from scratch. However all the findings over the years were helpful in determining what the manuscript was not, and gave me a clear understanding of possibilitiea that had been eliminated.
+
+In the spirit of collaboration, and to honor all the different researchers and authors I studied to eliminate many possible solutions on my journey to this point, I have uploaded this research for anyone and everyone to consume and build upon, leaving the very last pieces of the puzzle up to you. You may only be 1-2 characters away from reading it! Something special at the end of this readme.
 
 The research stems from a paper I previously published which can be found here : https://d6129ad4bb27bd465e98-58c191b98cc38e0752b7f97f6ccc733d.ssl.cf5.rackcdn.com/Vol13_43-55_Kunferman.pdf 
 
@@ -10,7 +14,7 @@ Folder Descriptions:
 
 ### cameraobscura
 <img src="https://github.com/crknftart/VoynichManuscript/assets/134263232/3090ef1d-c821-4588-b577-5a7633fb864b" width="200" style="float:left;clear both;">
-3d Models and photographs of the device used to encode the manuscript.
+3d Models and photographs of the device used to encode the manuscript.[see paper]
 
 ### diagrams
 <img src="https://github.com/crknftart/VoynichManuscript/assets/134263232/5edd53f5-0c4f-4121-8a3d-df7976179a06" style="float:left;clear:both;">
@@ -18,7 +22,7 @@ Diagrams of identified images with labeling.
 
 ### font
 <img src="https://github.com/crknftart/VoynichManuscript/assets/134263232/9916f8f7-f2c1-480c-a62e-fd3006adb7d3">
-A font of the alphabet and characters that were derived, some characters may need to be combined and refined for portions of the manuscript. Typesetting may be required but there should be enough glyphs to successfully recreate the entire manuscript if needed.
+A font of the alphabet and characters that were derived[see paper], some characters may need to be combined and refined for portions of the manuscript. Typesetting may be required but there should be enough glyphs to successfully recreate the entire manuscript if needed.
 
 ### notes
 A few notes on the research, as well as some references to image sources, additional research, and other research.
@@ -28,11 +32,11 @@ A semi prepped ocr template based on the font. My trial expired before I was abl
 
 ### scriptcomparison
 <img src="https://github.com/crknftart/VoynichManuscript/assets/134263232/c742cb90-4b5f-49d2-9bf9-8325718b367b" width=100>
-The various images of handwritten period appropriate script examples that were used to identify the language.
+After unobscuring the document, Google Lense was used to do an image search. While nothing was an exact match, a few results did have simularities and I was able to determine avenues to be explored through comparison. Images were then collected of handwriting from in or around the time period it was written determined by carbon dating[citation needed]. The various images of handwritten period appropriate script examples that were used to identify the language are in this folder.
 
 ### svg
 <img src="https://github.com/crknftart/VoynichManuscript/assets/134263232/d132322d-2fd9-43fc-b62c-401931053cb5" width="100">
-Scalable vector graphics related to the research including entire upper and lower glyph sets seperated by the median line. Handwriting stroke patterns for characters.
+Scalable vector graphics related to the research including entire upper and lower glyph sets seperated by the median line. Handwriting stroke patterns for characters.[see paper]
 
 
 ### tbu
@@ -41,7 +45,6 @@ The translation bucket. A collection of translations from a few folios. There is
 
 ### MS408-10v-LINES1 copy.jpg
 The transliteration proccess from Right to Left Orientation to Left To Right
-
 
 
 #### If you end up using this research, please list me as a collaborator or author. It would be most appeciated. Name: C.R. Kunferman
