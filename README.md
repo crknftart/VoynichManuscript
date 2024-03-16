@@ -32,7 +32,7 @@ A semi prepped ocr template based on the font. My trial expired before I was abl
 
 ### scriptcomparison
 <img src="https://github.com/crknftart/VoynichManuscript/assets/134263232/c742cb90-4b5f-49d2-9bf9-8325718b367b" width=100>
-After unobscuring the document, Google Lense was used to do an image search. While nothing was an exact match, a few results did have simularities and I was able to determine avenues to be explored through comparison. Images were then collected of handwriting from in or around the time period it was written determined by carbon dating[citation needed]. The various images of handwritten period appropriate script examples that were used to identify the language are in this folder.
+After unobscuring the document, Google Lense was used to do an image search. While nothing was an exact match, a few results did have simularities and I was able to determine avenues to be explored through comparison. Images were then collected of handwriting from in or around the time period it was written determined by carbon dating[https://news.arizona.edu/story/ua-experts-determine-age-of-book-nobody-can-read]. The various images of handwritten period appropriate script examples that were used to identify the language are in this folder.
 
 ### svg
 <img src="https://github.com/crknftart/VoynichManuscript/assets/134263232/d132322d-2fd9-43fc-b62c-401931053cb5" width="100">
