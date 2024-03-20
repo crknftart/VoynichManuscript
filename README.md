@@ -76,6 +76,6 @@ Utilizing everything ive learned and know after years of research, I will presen
 
 May it provide you with a modern mystery for a great many years, to the decrypter(s) go my undisclosed and private research findings.
 
-I originally planned on providing you with the manuscript in parts, but have decided to not split it into parts. As such when it is complete a link will appear here.
+It can be found in the folder newpuzzle. Enjoy!
 
 
