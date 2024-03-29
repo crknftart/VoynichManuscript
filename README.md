@@ -76,6 +76,6 @@ Utilizing everything ive learned and know after years of research, I will presen
 
 May it provide you with a modern mystery for a great many years, to the decrypter(s) go my undisclosed and private research findings.
 
-It can be found in the folder newpuzzle. Enjoy!
+Apparently the Kunferman Manuscript has been corrupted. As you can see here:https://github.com/crknftart/VoynichManuscript/tree/6917b134c941fa9f8de0b19a5d805c3724b85b1d/newpuzzle all files were re-uploaded 2 weeks ago. Thankfully I have the originals still. I'll be placing them in a book. because... well... this is why we can't have nice things.
 
 
