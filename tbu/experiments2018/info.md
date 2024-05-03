@@ -1,0 +1,1 @@
+These are all experimental translations done to determine sentence structuring, phrasing, and differences between valid and invalid translations in order to better understand the language after identifying a large number of the characters.
