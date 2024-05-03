@@ -1,6 +1,6 @@
 # The Voynich Manuscript / Findings After Unobscuring
 
-Here you will find my research on the Voynich Manuscript.
+Here you will find my research on the Voynich Manuscript. Please note, this introduction is simply a Readme file explaining what's in the folders with a brief description. Not to be taken as an academic documentation. The documentation is in the folders themselves and will provide you with things you can see and derive conclusions from yourself.
 
 Its become a choice between letting it sit on my computer and letting it collect dust, or give it to the world. So rather than take this research to the grave, I've decided to make it public. 
 
@@ -41,10 +41,12 @@ Scalable vector graphics related to the research including entire upper and lowe
 
 ### tbu
 <img src="https://github.com/crknftart/VoynichManuscript/assets/134263232/dd31f581-1898-4e30-b341-0a7d3e0d15e6" width="100">
-The translation bucket. A collection of translations from a few folios. There is a discrepancy that needs an expert, which is simply a spacing issue, as when you move the space which is hard to determine from the manuscript sometimes it changes the entire translation. Also the translator being used has been updated, so while the translations are still correct the characters may now transliterate to alternative phrasings.
+The translation bucket. A collection of translations from a few folios that can be somewhat discounted. There was a discrepancy that needed an expert, which was simply a spacing issue, as when you move the space which is hard to determine from the manuscript sometimes it changes the entire translation. Also the translator being used has been updated, so while the translations are still correct the characters may now transliterate to alternative phrasings.
+
+Since uploading this I have corrected the missing characters, and I am looking for interested parties to publish my findings, or a team that wants to collaborate. Leave a note in the discussion if interested.
 
 ### MS408-10v-LINES1 copy.jpg
-The transliteration proccess from Right to Left Orientation to Left To Right
+The transliteration proccess from Right to Left Orientation to Left To Right. Note if using the text file previously released by researchers (will have credit here soon) this is not necessary because it's already formatted left to write.
 
 
 #### If you end up using this research, please list me as a collaborator or author. It would be most appeciated. Name: C.R. Kunferman
@@ -63,9 +65,6 @@ After unobscuring the document, what is commonly known as plants in the manuscri
 ## What are the "White Ladies"?
 Upon examining the unobscured version of the manuscript I can safely say that the "White Ladies" appear to be sperm. The section containing them outlines the various components of the male reproductive system, and sperm production. An illustration of a male reproductive organ is present, which is labeled, and correctly shows the 2 tubules that seperate urine from ejaculation fluid. (See Diagrams)
 
-## Why aren't I getting the same translations as you?
-This would highly depend on the translator you're using. At the time of translations Google Translate was used, but has since been updated. Due to the nature of the language and the fact its so old it will be hard to pinpoint the exact transliteraion of the characters until an expert can analyze them. Some characters may differ in this transliteration. The best methodology for verification at this time is input the english found in the tbu folder to see what its current translation is, compare that translation to the tbu, make neccessary adjustments to the character transliteration. Example: "To dio" in modern Croation is "Ovaj dio".
-
 
 # Special message: 
 I know that this manuscript has held great historical, cultural, and community signifigance for longer than any other manuscript. In many ways I was hesitant to publish my findings because solving this mystery potentionally could lead to dissolving many groups all sharing a common goal, and also be cause for great disappointment for some working tirelessly to unlock the secrets.
@@ -74,8 +73,6 @@ With the awareness of this signifigance, and also to show my support to the comm
 
 Utilizing everything ive learned and know after years of research, I will present to you "The Kunferman Manuscript."
 
-May it provide you with a modern mystery for a great many years, to the decrypter(s) go my undisclosed and private research findings.
+Not sure why, but it has become a hacking target so I will update this when it's in a safe place to download uncorrected. Otherwise you can probably find copies of it in the history, however please note someone had altered them and covered it up using various methods so I am deeming any previous versions null and void. The alterations also saw an increase in file size. Not sure what's been added to the image headers in the archived history files so please be careful.
 
-Apparently the Kunferman Manuscript has been corrupted. As you can see here:https://github.com/crknftart/VoynichManuscript/tree/6917b134c941fa9f8de0b19a5d805c3724b85b1d/newpuzzle all files were re-uploaded 2 weeks ago. Thankfully I have the originals still. I'll be placing them in a book. because... well... this is why we can't have nice things.
-
-
+In light of these alterations, and a general lack of contributions I've made the project less editable, and won't be using it to collaborate.
