@@ -73,6 +73,4 @@ With the awareness of this signifigance, and also to show my support to the comm
 
 Utilizing everything ive learned and know after years of research, I will present to you "The Kunferman Manuscript."
 
-Not sure why, but it has become a hacking target so I will update this when it's in a safe place to download uncorrected. Otherwise you can probably find copies of it in the history, however please note someone had altered them and covered it up using various methods so I am deeming any previous versions null and void. The alterations also saw an increase in file size. Not sure what's been added to the image headers in the archived history files so please be careful.
-
-In light of these alterations, and a general lack of contributions I've made the project less editable, and won't be using it to collaborate.
+Volume 1 of "The Kunferman Manuscript" is now available on Amazon. Enjoy, and good luck.
